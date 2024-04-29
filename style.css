@@ -1,0 +1,12 @@
+h1{
+    color: rgb(230, 50, 230);
+    background-color: aquamarine;
+    font-family: arial black;
+}
+.footer{
+    color: blueviolet;
+    font-family: arial black;
+    position: fixed;
+    bottom: 0;
+    background-color: blanchedalmond;
+}
